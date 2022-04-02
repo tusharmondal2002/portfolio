@@ -231,5 +231,20 @@ html{
     color: white;
     cursor: pointer;
 }
+form .icons a{
+  
+    color :beige;
+    transition: color 0.2s;
+    text-decoration: none;
+    line-height: 36px;
+    text-align: center;
+    font-weight: 600;
+    width: 38px;
+    margin-right: 10px;
+  }
+  form .icons a:hover {
+    color: #99cc33;
+     
+}
 
 
